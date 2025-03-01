@@ -1,5 +1,9 @@
-<div align="center">
-  <img src="img/dedyokmen.png" width="200px" style="border-radius: 50%;" alt="Profile Picture">
+<div align="center" style="background-image: url('img/background.jpg'); background-size: cover; background-position: center; padding: 20px; border-radius: 15px;">
+  <img src="img/profileok.jpg" width="200px" style="border-radius: 50%; border: 4px solid white;" alt="Profile Picture">
+  <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Dedy Hutahaean Putra</h1>
+  <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full-Stack Rebahan Developer
+  </h2>
 </div>
 
 # Dedy Hutahaean Putra
