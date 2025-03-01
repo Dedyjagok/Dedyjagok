@@ -1,15 +1,23 @@
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <!-- Background Section -->
   <tr>
-    <td align="center" style="position: relative; padding: 40px 0;">
-      <img src="img/background.jpg" width="100%" height="100%" style="position: absolute; top: 0; left: 0; object-fit: cover; z-index: -1;">
-      <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid white; margin-top: 20px; position: relative;">
-      <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); position: relative;">Dedy Hutahaean Putra</h1>
-      <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); position: relative; margin-bottom: 20px;">
+    <td align="center" style="padding: 0;">
+      <div style="width: 100%; height: 300px; background: url('img/background.jpg') center/cover no-repeat;"></div>
+    </td>
+  </tr>
+
+  <!-- Profile Section -->
+  <tr>
+    <td align="center" style="padding: 40px 0; background-color: #121212;">
+      <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid white;">
+      <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Dedy Hutahaean Putra</h1>
+      <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full-Stack Rebahan Developer
       </h2>
     </td>
   </tr>
 </table>
+
 
 ### 👨‍💻 About Me
 I am a student at Politeknik Negeri Medan pursuing a Diploma in Management Information (2023-2026).  
