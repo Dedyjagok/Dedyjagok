@@ -6,10 +6,6 @@
   </h2>
 </div>
 
-# Dedy Hutahaean Putra
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full-Stack Rebahan Developer
-
 ### 👨‍💻 About Me
 I am a student at Politeknik Negeri Medan pursuing a Diploma in Management Information (2023-2026).  
 I specialize in full-stack development with a focus on web technologies.
