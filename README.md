@@ -1,4 +1,8 @@
-# Dedy Hutahaean Putra <img src="img/dedyokmen.png" width="200px" align="right" alt="Profile Picture">
+<div align="center">
+  <img src="img/dedyokmen.png" width="200px" style="border-radius: 50%;" alt="Profile Picture">
+</div>
+
+# Dedy Hutahaean Putra
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full-Stack Rebahan Developer
 
