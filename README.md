@@ -1,27 +1,22 @@
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center" style="padding: 0; position: relative;">
-      <!-- Combined Background and Profile Section -->
-      <div style="
-        width: 100%;
-        background: url('img/background.jpg') center/cover no-repeat;
-        padding: 40px 20px;
-      ">
-        <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid white;">
-        <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-top: 15px;">
-          Dedy Hutahaean Putra
-        </h1>
-        <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full-Stack Rebahan Developer
-        </h2>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid #333; box-shadow: 0 0 20px #0ff;">
+  
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dedy+Hutahaean+Putra;Full-Stack+Rebahan+Developer+%F0%9F%92%BB;Welcome+to+my+Profile+%F0%9F%8C%9F" alt="Typing SVG" />
+    </a>
+  </h1>
 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=dedyjagok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dedyjagok&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
-### 👨‍💻 About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
 I am a student at Politeknik Negeri Medan pursuing a Diploma in Management Information (2023-2026).  
 I specialize in full-stack development with a focus on web technologies.
 
@@ -92,6 +87,16 @@ I specialize in full-stack development with a focus on web technologies.
 
 ---
 
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dedyjagok&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedyjagok&theme=radical" alt="GitHub streak"/>
 </p>
+
+### ⚡ Recent GitHub Activity
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dedyjagok&theme=radical" alt="Contribution Graph"/>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
