@@ -2,21 +2,32 @@
   <!-- Background Section -->
   <tr>
     <td align="center" style="padding: 0;">
-      <div style="width: 100%; height: 300px; background: url('img/background.jpg') center/cover no-repeat;"></div>
+      <div style="
+        width: 100%;
+        height: 300px;
+        background: url('img/background.jpg') center/cover no-repeat;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      ">
+      </div>
     </td>
   </tr>
 
   <!-- Profile Section -->
   <tr>
-    <td align="center" style="padding: 40px 0; background-color: #121212;">
+    <td align="center" style="padding: 40px 20px; background-color: #121212; border-radius: 10px;">
       <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid white;">
-      <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Dedy Hutahaean Putra</h1>
+      <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-top: 15px;">
+        Dedy Hutahaean Putra
+      </h1>
       <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full-Stack Rebahan Developer
       </h2>
     </td>
   </tr>
 </table>
+
 
 
 ### 👨‍💻 About Me
