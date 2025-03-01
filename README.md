@@ -87,6 +87,30 @@ I specialize in full-stack development with a focus on web technologies.
 
 ---
 
+## 🎨 Portfolio
+<p align="left">
+  Check out my portfolio website for more detailed information about my work and projects:
+  <br/>
+  <a href="https://dedy-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+  </a>
+</p>
+
+- 🎯 Showcasing my full-stack development projects
+- 🎨 Featuring UI/UX designs and creative work
+- 💼 Comprehensive overview of my technical skills
+- 📱 Responsive web design implementations
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedyjagok&theme=radical&layout=compact&hide_border=true" alt="Most Used Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dedyjagok&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</div>
+
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedyjagok&theme=radical" alt="GitHub streak"/>
