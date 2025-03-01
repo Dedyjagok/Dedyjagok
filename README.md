@@ -93,9 +93,6 @@ I specialize in full-stack development with a focus on web technologies.
 </p>
 
 ### ⚡ Recent GitHub Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dedyjagok&theme=radical" alt="Contribution Graph"/>
-</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
