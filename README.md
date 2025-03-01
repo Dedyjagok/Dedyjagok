@@ -1,11 +1,11 @@
 <div align="center">
   <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid #333; box-shadow: 0 0 20px #0ff;">
   
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dedy+Hutahaean+Putra;Full-Stack+Rebahan+Developer+%F0%9F%92%BB;Welcome+to+my+Profile+%F0%9F%8C%9F" alt="Typing SVG" />
-    </a>
-  </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dedy+Hutahaean+Putra;Full-Stack+Rebahan+Developer+%F0%9F%92%BB;Welcome+to+my+Profile+%F0%9F%8C%9F" alt="Typing SVG" />
+  </a>
+</h1>
 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <img src="https://komarev.com/ghpvc/?username=dedyjagok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
