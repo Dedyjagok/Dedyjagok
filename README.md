@@ -1,11 +1,4 @@
-<style>
-  .tech-icon {
-    transition: transform 0.3s ease-in-out;
-  }
-  .tech-icon:hover {
-    transform: scale(1.2) rotate(10deg);
-  }
-</style>
+
 
 
 <div align="center">
@@ -51,30 +44,30 @@ I specialize in full-stack development with a focus on web technologies.
 
 ### Programming Languages
 <p align="left">
-  <img class="tech-icon" src="img/Typescript-icon.png" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Javascript-icon.png" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/PHP-icon.png" alt="PHP" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Java-icon.png" alt="Java" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/c++-icon.png" alt="C++" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Python-icon.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Web Technologies
 <p align="left">
-  <img class="tech-icon" src="img/HTML-icon.png" alt="HTML" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/CSS-icon.png" alt="CSS" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Bootstrap-icon.png" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Tailwindcss-icon.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### Tools & Technologies
 <p align="left">
-  <img class="tech-icon" src="img/MySQL-icon.png" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Git-icon.png" alt="Git" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Premiere-icon.png" alt="Premiere Pro" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Photoshop-icon.png" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/Ilustrator-icon.png" alt="Illustrator" width="40" height="40"/>&nbsp;
-  <img class="tech-icon" src="img/After Effect-icon.png" alt="After Effects" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
 </p>
 
 <div align="center">
