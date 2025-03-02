@@ -1,5 +1,9 @@
 <div align="center">
   <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid #333; box-shadow: 0 0 20px #0ff;">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
+</div>
   
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -20,9 +24,15 @@
 I am a student at Politeknik Negeri Medan pursuing a Diploma in Management Information (2023-2026).  
 I specialize in full-stack development with a focus on web technologies.
 
----
+<div align="center">
+  <img height="50" alt="tools" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/tools.gif" />
+</div>
 
 ## 🛠️ Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7C3&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Welcome+to+my+tech+stack;Here+are+the+technologies+I+work+with" />
+</p>
 
 ### Programming Languages
 <p align="left">
@@ -65,6 +75,10 @@ I specialize in full-stack development with a focus on web technologies.
   <img src="img/MySQL-icon.png" width="20"/> MySQL  
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino.gif" width="100%"/>
+</div>
 
 ## 📫 Contact
 
@@ -109,6 +123,14 @@ I specialize in full-stack development with a focus on web technologies.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dedyjagok&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dedyjagok&theme=radical&row=1&column=6" />
+</p>
+
+<div align="center">
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ### 🔥 Streak Stats
