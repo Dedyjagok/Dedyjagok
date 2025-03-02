@@ -1,6 +1,10 @@
 <div align="center">
   <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid #333; box-shadow: 0 0 20px #0ff;">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+</div>
+
   
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -12,9 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=dedyjagok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dedyjagok&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
@@ -122,9 +124,9 @@ I specialize in full-stack development with a focus on web technologies.
   <img src="https://github-readme-stats.vercel.app/api?username=dedyjagok&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dedyjagok&theme=radical&row=1&column=6" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dedyjagok&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
 <div align="center">
   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
