@@ -1,3 +1,13 @@
+<style>
+  .tech-icon {
+    transition: transform 0.3s ease-in-out;
+  }
+  .tech-icon:hover {
+    transform: scale(1.2) rotate(10deg);
+  }
+</style>
+
+
 <div align="center">
   <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid #333; box-shadow: 0 0 20px #0ff;">
 
@@ -16,7 +26,9 @@
   <img src="https://komarev.com/ghpvc/?username=dedyjagok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
@@ -27,6 +39,10 @@ I specialize in full-stack development with a focus on web technologies.
   <img height="50" alt="tools" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/tools.gif" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 🛠️ Skills
 
 <p align="center">
@@ -35,33 +51,35 @@ I specialize in full-stack development with a focus on web technologies.
 
 ### Programming Languages
 <p align="left">
-  <img src="img/Typescript-icon.png" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="img/Javascript-icon.png" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="img/PHP-icon.png" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="img/Java-icon.png" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="img/c++-icon.png" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="img/Python-icon.png" alt="Python" width="40" height="40"/>
+  <img class="tech-icon" src="img/Typescript-icon.png" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Javascript-icon.png" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/PHP-icon.png" alt="PHP" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Java-icon.png" alt="Java" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/c++-icon.png" alt="C++" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Python-icon.png" alt="Python" width="40" height="40"/>
 </p>
 
 ### Web Technologies
 <p align="left">
-  <img src="img/HTML-icon.png" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="img/CSS-icon.png" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="img/Bootstrap-icon.png" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="img/Tailwindcss-icon.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img class="tech-icon" src="img/HTML-icon.png" alt="HTML" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/CSS-icon.png" alt="CSS" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Bootstrap-icon.png" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Tailwindcss-icon.png" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 ### Tools & Technologies
 <p align="left">
-  <img src="img/MySQL-icon.png" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="img/Git-icon.png" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="img/Premiere-icon.png" alt="Premiere Pro" width="40" height="40"/>&nbsp;
-  <img src="img/Photoshop-icon.png" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="img/Ilustrator-icon.png" alt="Illustrator" width="40" height="40"/>&nbsp;
-  <img src="img/After Effect-icon.png" alt="After Effects" width="40" height="40"/>
+  <img class="tech-icon" src="img/MySQL-icon.png" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Git-icon.png" alt="Git" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Premiere-icon.png" alt="Premiere Pro" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Photoshop-icon.png" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/Ilustrator-icon.png" alt="Illustrator" width="40" height="40"/>&nbsp;
+  <img class="tech-icon" src="img/After Effect-icon.png" alt="After Effects" width="40" height="40"/>
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+</div>
 
 ## 🚀 Projects
 
@@ -114,6 +132,11 @@ I specialize in full-stack development with a focus on web technologies.
 - 💼 Comprehensive overview of my technical skills
 - 📱 Responsive web design implementations
 
+<div align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/7FgDPLLKh1v4d2XLkl/giphy.gif" width="60" />
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -131,6 +154,10 @@ I specialize in full-stack development with a focus on web technologies.
 <div align="center">
   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedyjagok&theme=react-dark&hide_border=true&area=true" width="100%">
+</p>
 
 ### 🔥 Streak Stats
 <p align="center">
