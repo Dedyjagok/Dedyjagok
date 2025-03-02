@@ -1,9 +1,6 @@
 <div align="center">
   <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid #333; box-shadow: 0 0 20px #0ff;">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
-</div>
   
 <h1 align="center">
   <a href="https://git.io/typing-svg">
