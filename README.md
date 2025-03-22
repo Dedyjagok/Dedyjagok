@@ -91,7 +91,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Illustration Design</h3>
+      <h3 align="center">Power Ranger!!</h3>
       <p align="center">
         <a href="https://dedy-portfolio.vercel.app/">
           <img src="img/img-animation-hero-section/desain-power-ranger-low.png" alt="Power Ranger Design" width="100%"/>
