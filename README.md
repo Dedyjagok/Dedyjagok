@@ -100,10 +100,6 @@
     </td>
   </tr>
 </table>
-- 🚀 Full-stack development projects
-- 🎨 UI/UX designs and creative solutions
-- 📱 Responsive web applications
-- 🔧 Technical skill demonstrations
 
 ## 📊 GitHub Stats
 
