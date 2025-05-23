@@ -42,14 +42,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
 ### Tools & Software
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -59,6 +51,16 @@
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
 </p>
+
+## 📜 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/cce9fbbd-76b3-4da8-b222-c0b808395361/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/e25abde3-b199-4726-9cc5-628e2532819f/image.png" width="200" alt="GitHub Foundations Certificate"/>
+  </a>
+  
+  <p>Verified GitHub Foundations professional certification demonstrating proficiency in GitHub fundamentals, collaboration workflows, and version control best practices.</p>
+</div>
 
 ## 🎨 Portfolio Highlights
 
