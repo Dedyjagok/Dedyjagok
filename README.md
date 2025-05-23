@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/cce9fbbd-76b3-4da8-b222-c0b808395361/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/e25abde3-b199-4726-9cc5-628e2532819f/image.png" width="200" alt="GitHub Foundations Certificate"/>
+    <img src="https://img.shields.io/badge/GitHub-Foundations_Certified-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations Certificate"/>
   </a>
   
   <p>Verified GitHub Foundations professional certification demonstrating proficiency in GitHub fundamentals, collaboration workflows, and version control best practices.</p>
