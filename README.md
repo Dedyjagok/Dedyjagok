@@ -62,47 +62,6 @@
   <p>Verified GitHub Foundations professional certification demonstrating proficiency in GitHub fundamentals, collaboration workflows, and version control best practices.</p>
 </div>
 
-## 🎨 Portfolio Highlights
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Creative Design - Shoes</h3>
-      <p align="center">
-        <a href="https://dedy-portfolio.vercel.app/">
-          <img src="img/img-animation-hero-section/desain-sepatu-inevitable.png" alt="Shoe Design" width="100%"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Character Design</h3>
-      <p align="center">
-        <a href="https://dedy-portfolio.vercel.app/">
-          <img src="img/img-animation-hero-section/desain-dedyok.png" alt="Character Design" width="100%"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Web Development</h3>
-      <p align="center">
-        <a href="https://dedy-portfolio.vercel.app/">
-          <img src="img/warung-umkm.jpg" alt="Web Project" width="100%"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Power Ranger!!</h3>
-      <p align="center">
-        <a href="https://dedy-portfolio.vercel.app/">
-          <img src="img/img-animation-hero-section/desain-power-ranger-low.png" alt="Power Ranger Design" width="100%"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Stats
 
 <div align="center">
