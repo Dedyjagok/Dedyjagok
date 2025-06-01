@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="img/profileok.jpg" width="200" style="border-radius: 50%; border: 4px solid #333; box-shadow: 0 0 20px #0ff;">
-  
+
+
   <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=600&lines=Hi👋;i'm+Dedy+Hutahaean+Putra;Full-Stack+Rebahan+Developer;" alt="Typing SVG" />
